@@ -92,5 +92,4 @@ cd college-tech-community
 
 ---
 
-**Want to see demos with GIFs or usage screenshots?**  
-Feel free to open an issue or suggest improvements! 🚀
+
